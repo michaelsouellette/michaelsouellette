@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Michael Ouellette and I’m a software engineer living in Pittsburgh, PA. My web development knowledge has been mainly self-taught and strengthened with my 17+ years of professional and freelance experience, personal projects, and college courses. I enjoy the unique challenge of web application/site development and UI design work balanced between different screen sizes.
+I’m Michael Ouellette (he/him/his) and I’m a software engineer living in Pittsburgh, PA. My web development knowledge has been mainly self-taught and strengthened with my 17+ years of professional and freelance experience, personal projects, and college courses. I enjoy the unique challenge of web application/site development and UI design work balanced between different screen sizes.
 
 I’m always interested in new and challenging web application projects, so if you can find any need for my services I would be more than happy to talk to you. You can reach me through the contact form found on the contact page or through any social web applications listed on the header of this site.
 
@@ -12,18 +12,10 @@ I’m always interested in new and challenging web application projects, so if y
 
 ---
 
+## &#x1f4c8; My GitHub Stats
 
-<!--
-**michaelsouellette/michaelsouellette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_GitHub_username>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your_GitHub_username>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
