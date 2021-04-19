@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Michael Ouellette and I’m a software engineer and entrepreneur living in Pittsburgh, PA. My web development knowledge has been mainly self-taught and strengthened with my 17+ years of professional and freelance experience, personal projects, and college courses. I enjoy the unique challenge of web application/site development and UI design work balanced between different screen sizes.
+I’m Michael Ouellette and I’m a software engineer living in Pittsburgh, PA. My web development knowledge has been mainly self-taught and strengthened with my 17+ years of professional and freelance experience, personal projects, and college courses. I enjoy the unique challenge of web application/site development and UI design work balanced between different screen sizes.
 
 I’m always interested in new and challenging web application projects, so if you can find any need for my services I would be more than happy to talk to you. You can reach me through the contact form found on the contact page or through any social web applications listed on the header of this site.
 
